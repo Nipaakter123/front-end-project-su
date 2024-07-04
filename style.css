@@ -24,3 +24,44 @@ border-radius: 10px;
     cursor: pointer;
     transition: 0.8s;
 }
+#highlights{
+    width: 70%;
+    margin: 50px auto;
+}
+
+#highlights > h2 {
+    font-size: 50px;
+    font-weight: 800;
+    text-shadow: 2px 2px 8px #af3d3d;
+    text-align: center;
+    margin-bottom: 25px;
+}
+#highlights > p{
+    width: 50%;
+    margin: 0 auto;
+    color: rgb(89, 85, 85);
+    text-align: center;
+    margin-bottom: 25px;
+}
+#buy-now{
+    display: flex;
+justify-content: center;
+}
+#cover-image{
+    width: 70%;
+    margin: 55px auto;
+}
+#cover-image img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
